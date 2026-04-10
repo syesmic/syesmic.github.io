@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: "Syesmic's projects"
-description: "Call me Sye (he/him)! I'm a rusyn programmer based in Slovakia. This is a repository for sharing my personal projects."
+description: "Call me Sye! I'm a rusyn programmer based in Slovakia. This is a repository for sharing my personal projects."
 show_downloads: false
 logo: /assets/img/logo.png
 # google_analytics: [Your Google Analytics tracking ID]
