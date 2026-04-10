@@ -3,6 +3,7 @@
 This guide details the steps to manually add a Rusyn (`rue`) keyboard layout on Linux systems using X11. 
 
 **Tested on:** Ubuntu, Linux Mint.
+
 **Source layout:** Based on the Windows Rusyn keyboard provided by [University of Prešov (UNIPO)](https://www.unipo.sk/cjknm/hlavne-sekcie/urjk/vedecko-vyskumna-cinnost/rusinska-klavesnica).
 
 ## Keyboard Layout Overview
