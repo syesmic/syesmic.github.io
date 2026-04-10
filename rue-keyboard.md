@@ -1,4 +1,4 @@
-# Rusyn Keyboard Layout on Linux
+# [TUTORIAL] Rusyn Keyboard Layout on Linux
 
 This guide details the steps to manually add a Rusyn (`rue`) keyboard layout on Linux systems using X11. 
 
