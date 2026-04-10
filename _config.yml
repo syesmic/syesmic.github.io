@@ -4,4 +4,5 @@ plugins:
 title: "sye's programming repository"
 description: "A list of projects made by syesmic."
 show_downloads: false
+logo: /assets/img/logo.png
 # google_analytics: [Your Google Analytics tracking ID]
