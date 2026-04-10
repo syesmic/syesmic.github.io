@@ -1,8 +1,8 @@
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme
-title: "sye's programming repository"
-description: "A list of projects made by syesmic."
+title: "Sye's projects"
+description: "A repositary to share my projects."
 show_downloads: false
 logo: /assets/img/logo.png
 # google_analytics: [Your Google Analytics tracking ID]
