@@ -1,6 +1,6 @@
 # [TUTORIAL] Rusyn Keyboard Layout on Linux
 
-This guide details the steps to manually add a Rusyn (`rue`) keyboard layout on Linux systems using X11. 
+This guide details the steps to manually add a Rusyn (`rue`) keyboard layout on Linux systems using X11 xkb. 
 
 **Tested on:** Ubuntu, Linux Mint.
 
@@ -81,7 +81,7 @@ xkb_symbols "basic" {
 
 Save and exit the file.
 
-## 2. Register the Layout in X11 Rules
+## 2. Register the Layout in X11 xkb Rules
 
 Open the `evdev.xml` file to register the newly created layout:
 
